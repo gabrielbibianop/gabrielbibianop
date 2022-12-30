@@ -13,7 +13,7 @@
 <div align="center">
 
 <h3 align="center">    
-Projects that I am part of and help to develop 👤
+Projects that I am part of and help to develop
 </h3>
 
  <div align:center>
