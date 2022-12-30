@@ -9,26 +9,27 @@
 </p>
 <br/>
 
+<div align="center">
+  
 <h3 align="center">  
   Social media 👤
 </h3>
-
-<div align="center"> 
   
-  <a href="https://www.instagram.com/biel_bibiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230022?style=flat&logo=instagram&logoColor=white" style="height:30px" target="_blank"></a>
- <a href="https://discord.com/channels/1058349956798361652/1058349957414916148" target="_blank"><img src="https://img.shields.io/badge/Discord-%230022?style=flat&logo=discord&logoColor=white" style="height:30px" target="_blank"></a> 
-  <a href="https://www.facebook.com/gabriel.bibiano.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230022?style=flat&logo=facebook&logoColor=white" style="height:30px" target="_blank"></a>
-  <a href = "mailto:gabriel.bibiano@outlook.com"><img src="https://img.shields.io/badge/-Email-%230022?style=flat&logo=gmail&logoColor=white" style="height:30px" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/gabrielbibianopinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230022?style=flat&logo=linkedin&logoColor=white" style="height:30px" target="_blank"></a>
+  <a href="https://www.instagram.com/biel_bibiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height:30px" target="_blank"></a>
+ <a href="https://discord.com/channels/1058349956798361652/1058349957414916148" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="height:30px" target="_blank"></a> 
+  <a href="https://www.facebook.com/gabriel.bibiano.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height:30px" target="_blank"></a>
+  <a href = "mailto:gabriel.bibiano@outlook.com"><img src="https://img.shields.io/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/gabrielbibianopinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px" target="_blank"></a>
   
 <h3 align="center">  
-  Studying ⏳
+  Studying 📚
 </h3>
   
 <div align="center">
   
-  <img src="https://img.shields.io/badge/React-%230022?style=flat&logo=React" style="height:30px;"/> <!-- React --> 
-  <img src="https://img.shields.io/badge/Node.js-%230022?style=flat&logo=Node.js" style="height:30px;" /> <!-- Node -->
-  <img src="https://img.shields.io/badge/TypeScript-%230022?style=flat&logo=TypeScript" style="height:30px;" /> <!-- TypeScript -->
+  <a href="#" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="#" target="_blank">![TypeScript](https://img.shields.io/badge/-TypeScript-e1e1e6?style=for-the-badge&logo=typescript)</a>
+  <a href="#" target="_blank">![React](https://img.shields.io/badge/-react-gray?style=for-the-badge&logo=react)</a>
+  <a href="#" target="_blank">![Node](https://img.shields.io/badge/-node-233056?style=for-the-badge&logo=node.js)</a>
   
  </div>
