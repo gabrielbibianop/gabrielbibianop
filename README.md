@@ -27,6 +27,6 @@
   
 <div align="center">
   
-  <a href="#" target="_blank">![React](https://img.shields.io/badge/-React-yellow?style=for-the-badge&logo=React)</a>
+  <a href="#" target="_blank">![React](https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React)</a>
   
  </div>
