@@ -7,11 +7,22 @@
 <p align="left">
   🔎 Looking for new opportunities...
 </p>
+
 <br/>
 
 <div align="center">
-  
-<h3 align="center">  
+
+<h3 align="center">    
+Projects that I am part of and help to develop 👤
+</h3>
+
+ <div align:center>
+  <a href="https://onchef.com.br/" target="_blank"><img src="https://sistemaonstore.com.br/wp-content/uploads/2022/01/Logo_onStore_White.png" style="height:50px" target="_blank"></a> 
+  <br>
+  <br>
+ <a href="https://sistemaonstore.com.br/" target="_blank"><img src="https://onchef.com.br/assets/images/logoblue.png" style="height:50px" target="_blank"></a> 
+ </div>
+<h3 align="center">   
   Social media 👤
 </h3>
   
@@ -20,7 +31,7 @@
   <a href="https://www.facebook.com/gabriel.bibiano.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height:30px" target="_blank"></a>
   <a href = "mailto:gabriel.bibiano@outlook.com"><img src="https://img.shields.io/badge/-Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white" style="height:30px" target="_blank"></a>
   <a href="http://www.linkedin.com/in/gabrielbibianopinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height:30px" target="_blank"></a>
-  
+ <br>  
 <h3 align="center">  
   Studying 📚
 </h3>
