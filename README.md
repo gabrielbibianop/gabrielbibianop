@@ -27,7 +27,7 @@
   
 <div align="center">
   
-  <img src="https://img.shields.io/badge/React-%230022?style=flat&logo=React" style="height:30px;" /> <!-- React --> 
+  <img src="https://img.shields.io/badge/React-%230022?style=flat&logo=React" style="height:30px;"/> <!-- React --> 
   <img src="https://img.shields.io/badge/Node.js-%230022?style=flat&logo=Node.js" style="height:30px;" /> <!-- Node -->
   <img src="https://img.shields.io/badge/TypeScript-%230022?style=flat&logo=TypeScript" style="height:30px;" /> <!-- TypeScript -->
   
