@@ -2,7 +2,7 @@
 <p align="left">
   👋 I'm a Delphi developer at Master Soluções, looking to grow in the web area using React.
 <p align="left">
-  📚 Atualmente Estudando React
+  📚 Currently Studying React
 </p>
 <p align="left">
   🔎 Looking for new opportunities...
@@ -27,7 +27,6 @@
   
 <div align="center">
   
-  <a href="#" target="_blank">![Python](https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python)</a>
-  <a href="https://alunos.b7web.com.br/media/certificates/certificado_5799377.jpg" target="_blank">![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)</a>
+  <a href="#" target="_blank">![React](https://img.shields.io/badge/-React-yellow?style=for-the-badge&logo=React)</a>
   
  </div>
