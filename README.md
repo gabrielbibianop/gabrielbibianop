@@ -15,18 +15,20 @@
 
 <div align="center"> 
   
-  <a href="https://www.instagram.com/biel_bibiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/1058349956798361652/1058349957414916148" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/gabriel.bibiano.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.bibiano@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="http://www.linkedin.com/in/gabrielbibianopinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/biel_bibiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230022?style=flat&logo=instagram&logoColor=white" style="height:30px" target="_blank"></a>
+ <a href="https://discord.com/channels/1058349956798361652/1058349957414916148" target="_blank"><img src="https://img.shields.io/badge/Discord-%230022?style=flat&logo=discord&logoColor=white" style="height:30px" target="_blank"></a> 
+  <a href="https://www.facebook.com/gabriel.bibiano.35/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%230022?style=flat&logo=facebook&logoColor=white" style="height:30px" target="_blank"></a>
+  <a href = "mailto:gabriel.bibiano@outlook.com"><img src="https://img.shields.io/badge/-Email-%230022?style=flat&logo=gmail&logoColor=white" style="height:30px" target="_blank"></a>
+  <a href="http://www.linkedin.com/in/gabrielbibianopinheiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230022?style=flat&logo=linkedin&logoColor=white" style="height:30px" target="_blank"></a>
   
 <h3 align="center">  
-  Courses in progress ⏳
+  Studying ⏳
 </h3>
   
 <div align="center">
   
-  <a href="#" target="_blank">![React](https://img.shields.io/badge/-React-gray?style=for-the-badge&logo=React)</a>
+  <img src="https://img.shields.io/badge/React-%230022?style=flat&logo=React" style="height:30px;" /> <!-- React --> 
+  <img src="https://img.shields.io/badge/Node.js-%230022?style=flat&logo=Node.js" style="height:30px;" /> <!-- Node -->
+  <img src="https://img.shields.io/badge/TypeScript-%230022?style=flat&logo=TypeScript" style="height:30px;" /> <!-- TypeScript -->
   
  </div>
