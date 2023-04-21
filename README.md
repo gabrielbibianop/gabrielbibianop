@@ -1,6 +1,6 @@
 ### Hello, I'm Gabriel Bibiano
 <p align="left">
-  👋 I'm a Development Coordinator at Master Soluções, looking to grow in the web area using React.
+  👋 I'm a Developer at Sinqia, looking to grow in the web area using React.
 <p align="left">
   📚 Currently Studying React
 </p>
