@@ -11,20 +11,6 @@
 <br/>
 
 <div align="center">
-
-<h3 align="center">    
-Projects that I am part of and help to develop
-</h3>
-
- <div align:center>
-  <a href="https://onchef.com.br/" target="_blank"><img src="https://sistemaonstore.com.br/wp-content/uploads/2022/01/Logo_onStore_White.png" style="height:50px" target="_blank"></a> 
-  <br>
-  <br>
- <a href="https://sistemaonstore.com.br/" target="_blank"><img src="https://onchef.com.br/assets/images/logoblue.png" style="height:50px" target="_blank"></a> 
- </div>
-<h3 align="center">   
-  Social media 👤
-</h3>
   
   <a href="https://www.instagram.com/biel_bibiano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="height:30px" target="_blank"></a>
  <a href="https://discord.com/channels/1058349956798361652/1058349957414916148" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" style="height:30px" target="_blank"></a> 
